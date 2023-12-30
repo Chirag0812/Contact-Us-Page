@@ -1,10 +1,11 @@
 import styles from "./Navigation.module.css";
-
- let imgg= require('../../images/abc.png')
+import imgg from '../../images/abc.png'
+//  let imgg= require('../../images/abc.png')
 const Navigation = () => {
   return (
     <nav className={`${styles.navigation} container`}>
       <div className={styles.logo}>
+        {/* <img src={imgg} alt="logo" width="60px" height="70px" /> */}
         <img src={imgg} alt="logo" width="60px" height="70px" />
       </div>
 
