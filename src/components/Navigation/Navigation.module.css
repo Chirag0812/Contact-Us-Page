@@ -1,0 +1,17 @@
+.navigation {
+  padding: 0 8px;
+  display: flex;
+  height: 12vh;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigation ul {
+  display: flex;
+  gap: 24px;
+  list-style-type: none;
+  font-weight: 500;
+}
+.logo{
+  margin-top: 0px;
+}
