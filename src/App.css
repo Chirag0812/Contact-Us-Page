@@ -16,5 +16,5 @@ body {
   display: flex;
   height: calc(100% - 12vh);
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
 }
