@@ -6,7 +6,7 @@ const Navigation = () => {
     <nav className={`${styles.navigation} container`}>
       <div>
         {/* <img src={imgg} alt="logo" width="60px" height="70px" /> */}
-        <img src="./abc.png" alt="logo" width="60px" height="70px" />
+        <img src="abc.png" alt="logo" width="60px" height="70px" />
       </div>
 
       <ul>
