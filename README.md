@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 # Contact-Us-Page
 
-# View at = https://chirag0812.github.io/Contact-Us-Page/
-=======
-# View at= https://chirag0812.github.io/Contact-Us-Page/
+# View at = https://contact-us011.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
