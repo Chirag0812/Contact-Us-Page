@@ -5,7 +5,7 @@ import { FaPhoneAlt } from "react-icons/fa";
 import { HiMail } from "react-icons/hi";
 import { useState } from "react";
 
-let myImg= require('./myImg.jpg')
+// let myImg= require('./myImg.jpg')
 
 const ContactForm = () => {
   const [name, setName] = useState("Name_Appears_here");
@@ -59,8 +59,8 @@ const ContactForm = () => {
       </div>
 
       {/* IMAGES ADDED HERE  */}
-      <div>
-        <img src={myImg} alt="contact_image" width="450px" height="538px"/>
+      <div className={styles.FormImg}>
+        {/* <img src={myImg} alt="contact_image" width="450px" height="538px"/> */}
       </div>
       
     </section>
